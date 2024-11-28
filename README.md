@@ -1,2 +1,2 @@
 # Roman-numeral-Converter
-An application that converts integers to Roman numerals.
+This was the 2nd project in my Javascript learning journey where I build an application that converts integers to Roman numerals.
